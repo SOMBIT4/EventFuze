@@ -132,7 +132,7 @@
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/EventFuze.git
+git clone https://github.com/SOMBIT4/EventFuze.git
 
 ```
 
