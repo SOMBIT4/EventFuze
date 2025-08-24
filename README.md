@@ -1,3 +1,11 @@
+bugs:
+cloudinary link upload in create event
+in create event i can add only one image
+subadmin cards are not dynamic
+chatbot issue 
+
+
+
 # 🚀 EventFuze – Fuse Connections, Ignite Campus Events
 
 **EventFuze** is a full-stack web platform designed for **university clubs** to organize, manage, and promote campus events. It empowers students to discover and register for events, while enabling admins to seamlessly manage clubs, members, and event participation.
